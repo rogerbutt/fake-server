@@ -1,0 +1,29 @@
+{
+  "name": "fake-server",
+  "version": "0.0.0",
+  "description": "Prints your http requests yay",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rogerbutt/fake-server.git"
+  },
+  "keywords": [
+    "isomorphic",
+    "scalable",
+    "cloud",
+    "reactive"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rogerbutt/fake-server/issues"
+  },
+  "homepage": "https://github.com/rogerbutt/fake-server",
+  "dependencies": {
+    "express": "^4.13.0"
+  }
+}
